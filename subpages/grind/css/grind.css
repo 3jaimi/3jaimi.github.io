@@ -1,0 +1,84 @@
+ol>p 
+{
+	width:75%;
+}
+ul>p 
+{
+	width:75%;
+}
+
+ol> img {
+	float: right;
+	
+}
+ul> img {
+	float: right;
+	
+}
+
+ol> img:hover {
+	border: 3px solid black;
+	
+}
+ul> img:hover {
+	border: 3px solid black;
+	
+}
+#cb 
+{
+	position: relative;
+	bottom: 130px;
+}
+
+#frp 
+{
+	position: relative;
+	bottom: 87px;
+}
+
+#mkp
+{
+	position:relative;
+	left: 200px;
+	top:160px;
+}
+
+#mkp:hover {
+	border: 3px solid black;
+	
+}
+#mkp1:hover {
+	border: 3px solid black;
+	
+}
+
+#mkp1
+{
+	position:relative;
+	top:160px;
+	right: 5px; 
+}
+
+#tur
+{
+	position:relative;
+	top:95px;
+	left: 102px; 
+}
+
+#right>h4
+{
+	text-align: center;
+	position: relative;
+	top:15px;
+	left: 35px;
+	width: 80%;
+}	
+
+video {
+	position: relative;
+	left: 95px;
+	top: 35px;
+}
+
+	

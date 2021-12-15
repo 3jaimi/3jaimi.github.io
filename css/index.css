@@ -1,0 +1,38 @@
+
+
+
+#cup
+{
+	position:relative;
+	float: right;
+	bottom: 106px;
+	right: 25px;
+	margin-bottom:20px;
+}
+
+#cup:hover {
+	border: 3px solid black;
+}
+
+#Info
+{
+	background-color:#CFC2B4  ;
+	
+}
+#contact
+{
+	background-color:#CFC2B4  ;
+	padding: 1px;
+	
+}
+#contact>p 
+{
+	text-align: left;
+	padding: 1px;
+	
+}#contact>a
+{
+	text-align: left;
+	padding: 1px;
+}
+

@@ -1,0 +1,74 @@
+
+#main>ul
+{
+	margin: 0px;
+	padding:0px;
+}	
+
+
+
+li
+{
+	text-align: left;
+}
+
+p {
+	text-align:left;
+}
+
+table 
+{
+	border: 1px solid black;
+	margin: 2px;
+}
+
+td
+{
+	background-color: #D5D2CE;
+	border: 1px solid black;
+}
+
+td:hover 
+{
+	background-color: #000000;
+	color:#ffffff;
+}
+
+th
+{
+	background-color:#636662;
+	border: 1px solid black;
+}
+
+#empty {
+	border:0px #E4DFDB ; 
+	background-color: #E4DFDB ;
+}
+
+#brazilian 
+{
+	position:relative;
+	right:10%;
+	margin: 20px;
+	height: 200px;
+	width: 200px;
+	
+}
+
+#brazilian:hover {
+	border: 3px solid black;
+}
+
+#beans
+{
+	position:relative;
+	left:10%;
+	margin: 20px;
+	height: 200px;
+	width: 200px;
+	
+}
+
+#beans:hover {
+	border: 3px solid black;
+}

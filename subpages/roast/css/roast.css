@@ -1,0 +1,25 @@
+ol>p
+{
+	width: 75%;
+}
+
+#lr
+{
+	position:relative;
+	bottom:105px;
+	right: 35px;
+	float: right;
+}
+
+ol>img:hover {
+	border: 3px solid black;
+}
+
+#mr
+{
+	position:relative;
+	bottom:140px;
+	right: 35px;
+	float: right;
+}
+
